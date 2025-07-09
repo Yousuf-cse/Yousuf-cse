@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousuf Mallik</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">
   <a href="mailto:yousuf.mallik79@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat" alt="Email">
