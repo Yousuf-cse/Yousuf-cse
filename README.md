@@ -6,7 +6,7 @@
   <a href="https://twitter.com/yousuf2049" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://linkedin.com/in/yousuf mallik"" target="_blank">
+  <a href="https://linkedin.com/in/yousuf-mallik"" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
