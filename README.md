@@ -19,7 +19,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bun,nodejs,express,mongodb,postgres,prisma,redis,docker,kubernetes,grafana,prometheus,aws,git,rust,bash,kafka&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redis,docker,kubernetes,grafana,aws,postman,git,figma,rust,bash,kafka&perline=10" />
 </p>
 
 <p align="center">
